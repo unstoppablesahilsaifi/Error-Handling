@@ -5,7 +5,7 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%@page errorPage="error_ex.jsp" %>
+<%@page errorPage="error_exception.jsp" %>
 <!DOCTYPE html>
 <html>
     <head>
@@ -13,7 +13,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        //Scriptlet tag
+        
+        <!--Scriptlet tag-->
         <%
             //fetch two numbers
             String n1 = request.getParameter("n1");
@@ -24,7 +25,8 @@
             int c = a / b;
 
         %>
-        //Expression tag
+        
+        <!--Expression tag-->
         <h1> Result  is : <%=c%></h1>
     </body>
 </html>
