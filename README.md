@@ -3,12 +3,15 @@ Advanced Java
 
 1.Home Page
 
-![image](https://user-images.githubusercontent.com/97735834/209314555-92485212-ea5d-43a6-8a6b-143b58edaac8.png)
+![image](https://user-images.githubusercontent.com/97735834/209315895-84e00383-2841-4685-8eef-0b979ffcd120.png)
+
 
 2. When Exception occers
 
-![image](https://user-images.githubusercontent.com/97735834/209314716-72e8c4f7-4200-4e40-baa6-0652861d56ca.png)
+![image](https://user-images.githubusercontent.com/97735834/209315991-171358c3-99e8-4af1-8e13-b777166ed629.png)
+
 
 3.When user try to hit any page which is is not available.
 
-![image](https://user-images.githubusercontent.com/97735834/209314885-ae48bc1b-c69f-4695-9102-5d80d2e0561e.png)
+![image](https://user-images.githubusercontent.com/97735834/209316132-7eec089a-16d5-47b0-8489-88574bb06afe.png)
+
