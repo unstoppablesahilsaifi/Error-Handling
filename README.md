@@ -6,7 +6,7 @@ Advanced Java
 ![image](https://user-images.githubusercontent.com/97735834/209315895-84e00383-2841-4685-8eef-0b979ffcd120.png)
 
 
-2. When Exception occers
+2. When Exception occurs
 
 ![image](https://user-images.githubusercontent.com/97735834/209315991-171358c3-99e8-4af1-8e13-b777166ed629.png)
 
